@@ -38,4 +38,4 @@ Gostaria de agradecer aos meus professores e colegas de curso pela orientação 
 
 ---
 
-Desenvolvido com ❤️ por Raul Fernandes(#) (adicione seu perfil do GitHub ou outra rede social).
+Desenvolvido com ❤️ por Raul Fernandes.
